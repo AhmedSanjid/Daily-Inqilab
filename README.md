@@ -59,7 +59,7 @@ Daily-Inqilab/
 ├── index.html           # Main landing page
 ├── css/                 # Folder containing stylesheets
 │   └── styles.css       # Custom styles
-├── js/                  # Folder for JavaScript files (if any)
+├── js/                  # Folder for JavaScript files
 ├── images/              # Folder for image assets
 └── articles/            # Folder for individual article pages
 ```
